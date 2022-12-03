@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/qtitan.png</file>
+        <file>res/scroll.png</file>
+        <file>res/smallLeft.png</file>
+        <file>res/smallNew.png</file>
+        <file>res/smallOpen.png</file>
+        <file>res/smallRedo.png</file>
+        <file>res/smallRight.png</file>
+        <file>res/smallSave.png</file>
+        <file>res/smallUndo.png</file>
+    </qresource>
+</RCC>
